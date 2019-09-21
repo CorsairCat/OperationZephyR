@@ -20,7 +20,7 @@
                     $vEvent->setDtStart(new \DateTime($timeStart));
                     $vEvent->setDtEnd(new \DateTime($timeEnd));
                     $vEvent->setSummary($dayArray[$i][0]);
-                    $vEvent->setDescription("teacher".$dayArray[$i][3]);
+                    $vEvent->setDescription("teacher: ".$dayArray[$i][3]);
                     $vEvent->setDescriptionHTML('<b> teacher'.$dayArray[$i][3].'</b>');
                     // add some location information
                     $vEvent->setLocation($dayArray[$i][2]);
