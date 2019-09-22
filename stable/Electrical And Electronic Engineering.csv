@@ -1,0 +1,77 @@
+Monday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+EEEE1038/L1/01,Computer Aided Engineering,Lecture,88,Monday,9:00,11:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Jing Wang,"2, 4, 6-8, 10-12"
+EEEE2056/L1/01,Electrical Energy Conditioning and Control,Lecture,45,Monday,9:00,11:00,2:00,DB-A04+,DB-A04 - Teaching Room A04,60,John Xu,"2, 5-6, 8-9, 11-14"
+EEEE3076/L1/01,"Robotics, Dynamics and Control",Lecture,33,Monday,9:00,11:00,2:00,DB-C04+,The Lord Dearing Building - Teaching Room C04,48,Liang Huang,"2, 4-14"
+EEEE1039/P1(Mon)/01,Applied Electrical and Electronic Engineering: Construction Project,Practical,8,Monday,10:00,18:00,8:00,"PMB-208*,PMB-207*","PMB Lab Room 208 - Level 2 - Electrical engineering lab &Physics Lab,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab","40,40","Gigi Lu,Jing Wang,Chunyang Gu,Giampaolo Buticchi","5, 9, 13-14"
+EEEE2059&2062/P01 (Mon)/01,Practical Engineering Design Solutions and Project Development,Practical,23,Monday,11:00,18:00,7:00,PMB-207*,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab,40,"Forrest Ji,Giampaolo Buticchi,Jing Li","4, 7, 10"
+EEEE2059&2062/P01 (Mon)/01 (staff/location refer to EEEE2059 timetable),Applied Mechatronic Engineering Project 2,Practical,22,Monday,11:00,18:00,7:00,,,,,"4, 7, 10"
+EEEE1038/C1/01,Computer Aided Engineering,Computing,30,Monday,12:00,15:00,3:00,"PMB-309(COMP)+,PMB-306(COMP)+","PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,PMB Computer Teaching Room 306 - Level 3 - Priority by Faculty Office of Science and Engineering","32,72",Jing Wang,"2, 4, 6-8, 10-12"
+EEEE3069/L1/01,Digital Communications,Lecture,23,Monday,13:00,15:00,2:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Sherif Welsen,"2, 4-14"
+EEEE2058/L1/01,Modelling: Methods and Tools,Lecture,45,Monday,14:00,16:00,2:00,DB-A04+,DB-A04 - Teaching Room A04,60,Chengbo Wang,"2, 5-6, 8-9, 11-14"
+EEEE1039/C1 safery training/01,Applied Electrical and Electronic Engineering: Construction Project,Computing,30,Monday,15:00,16:00,1:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,,2
+EEEE1039/C1 safery training/02,Applied Electrical and Electronic Engineering: Construction Project,Computing,30,Monday,16:00,17:00,1:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,,2
+EEEE3070/L1/01,Embedded Computing,Lecture,27,Monday,16:00,18:00,2:00,DB-A01+,The Lord Dearing Building - Teaching Room A01,30,Sherif Welsen,"2, 4-14"
+EEEE3108/L1/01,Optical networks,Lecture,15,Monday,16:00,18:00,2:00,TB-111+,Teaching Building Seminar Room 111 - Level 1,20,Yaping Zhang,"2, 4-14"
+EEEE1039/C1 safery training/03,Applied Electrical and Electronic Engineering: Construction Project,Computing,30,Monday,17:00,18:00,1:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,,2
+,,,,,,,,,,,,
+Tuesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+EEEE2058/L2/01,Modelling: Methods and Tools,Lecture,45,Tuesday,9:00,11:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,Chengbo Wang,"2, 5-6, 8-9, 11-14"
+EEEE3102/L1/01,Analogue electronics,Lecture,45,Tuesday,9:00,11:00,2:00,DB-C04+,The Lord Dearing Building - Teaching Room C04,48,Shun Bai,"2, 4-14"
+EEEE1039/P2(Tues)/01,Applied Electrical and Electronic Engineering: Construction Project,Practical,8,Tuesday,10:00,18:00,8:00,"PMB-208*,PMB-207*","PMB Lab Room 208 - Level 2 - Electrical engineering lab &Physics Lab,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab","40,40","Gigi Lu,Jing Wang,Chunyang Gu,Giampaolo Buticchi","5, 9, 13-14"
+EEEE1035/L1/01,Power and Energy,Lecture,88,Tuesday,11:00,13:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Chunyang Gu,"2, 4, 6-8, 10-12"
+EEEE2059&2062/P02 (Tues)/01,Practical Engineering Design Solutions and Project Development,Seminar,23,Tuesday,11:00,18:00,7:00,PMB-207*,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab,40,"Forrest Ji,Giampaolo Buticchi,Jing Li","4, 7, 10"
+EEEE2059&2062/P02 (Tues)/01 (staff/location refer to EEEE2059 timetable),Applied Mechatronic Engineering Project 2,Practical,22,Tuesday,11:00,18:00,7:00,,,,,"4, 7, 10"
+EEEE3102/L2/01,Analogue electronics,Lecture,45,Tuesday,12:00,14:00,2:00,DB-C04+,The Lord Dearing Building - Teaching Room C04,48,Shun Bai,"2, 4-14"
+EEEE2057&2061/L1/01,Electronic Processing and Communications,Lecture,45,Tuesday,13:00,15:00,2:00,IAMET- 121+,IAMET- 121+,99,Liwen Huang,"2, 5-6, 8-9, 11-14"
+EEEE2057&2061/L1/01,Electronic Processing and Robotics,Lecture,22,Tuesday,13:00,15:00,2:00,,,,,"2, 5-6, 8-9, 11-14"
+EEEE1039/S1/01,Applied Electrical and Electronic Engineering: Construction Project,Seminar,88,Tuesday,14:00,16:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Chunyang Gu,Jing Wang","4, 6-8, 10-12"
+EEEE3070/P1/01,Embedded Computing,Practical,2,Tuesday,15:00,16:00,1:00,PMB-322*,PMB Lab Room 322 - Level 3 - Electrical Engineering Lab,20,Jing Ma,6月13日
+EEEE2056/L2/01,Electrical Energy Conditioning and Control,Lecture,45,Tuesday,16:00,18:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,John Xu,"2, 5-6, 8-9, 11-14"
+,,,,,,,,,,,,
+Wednesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+EEEE2059&2062/S1/01 (staff/location refer to EEEE2059 timetable),Applied Mechatronic Engineering Project 2,Seminar,45,Wednesday,9:00,11:00,2:00,,,,,"2, 6, 9"
+EEEE2059&2062/S1/01,Practical Engineering Design Solutions and Project Development,Seminar,45,Wednesday,9:00,11:00,2:00,DB-A04+,DB-A04 - Teaching Room A04,60,Giampaolo Buticchi,"2, 6, 9"
+EEEE1037/L1/01,Engineering Analysis,Lecture,88,Wednesday,9:00,11:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Liwen Huang,"2, 4, 6-8, 10-12"
+EEEE2059&2062/P03 (Wed)/01,Practical Engineering Design Solutions and Project Development,Practical,23,Wednesday,10:00,13:00,3:00,PMB-207*,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab,40,Forrest Ji,"4, 7, 10"
+EEEE2059&2062/P03 (Wed)/01 (staff/location refer to EEEE2059 timetable),Applied Mechatronic Engineering Project 2,Practical,22,Wednesday,10:00,13:00,3:00,,,,,"4, 7, 10"
+EEEE1039/P3(Wed)/01,Applied Electrical and Electronic Engineering: Construction Project,Practical,8,Wednesday,10:00,13:00,3:00,"PMB-208*,PMB-207*","PMB Lab Room 208 - Level 2 - Electrical engineering lab &Physics Lab,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab","40,40",Gigi Lu,"5, 9, 13-14"
+EEEE1039/S2 safery training/01,Applied Electrical and Electronic Engineering: Construction Project,Seminar,88,Wednesday,11:00,12:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,,2
+,,,,,,,,,,,,
+Thursday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+EEEE2059/S1/01,Practical Engineering Design Solutions and Project Development,Seminar,23,Thursday,9:00,11:00,2:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,"Liang Huang,Shun Bai","2, 6, 9"
+EEEE1036/L1/01,Information and Systems,Lecture,88,Thursday,9:00,11:00,2:00,IAMET- 121+,IAMET- 121+,99,David Cho,"2, 4, 6-8, 10-12"
+EEEE3070/S1/01,Embedded Computing,Seminar,27,Thursday,9:00,10:00,1:00,DB-C01+,The Lord Dearing Building - Teaching Room C01,30,Sherif Welsen,"2, 4-14"
+EEEE2059/P4(Thur)/01,Practical Engineering Design Solutions and Project Development,Practical,23,Thursday,10:00,17:00,7:00,PMB-207*,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab,40,"Forrest Ji,Liang Huang,Shun Bai","4, 7, 10"
+EEEE1039/P4(Thurs)/01,Applied Electrical and Electronic Engineering: Construction Project,Practical,8,Thursday,10:00,18:00,8:00,"PMB-208*,PMB-207*","PMB Lab Room 208 - Level 2 - Electrical engineering lab &Physics Lab,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab","40,40","Chiew-Foong Kwong,Chunyang Gu,Gigi Lu,Jing Wang","5, 9, 13-14"
+EEEE3069/S1/01,Digital Communications,Seminar,23,Thursday,11:00,12:00,1:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Sherif Welsen,6月12日
+EEEE2057&2061/L2/01,Electronic Processing and Communications,Lecture,45,Thursday,13:00,15:00,2:00,IAMET- 121+,IAMET- 121+,99,Liwen Huang,"2, 5-6, 8-9, 11-14"
+EEEE2057&2061/L2/01,Electronic Processing and Robotics,Lecture,22,Thursday,13:00,15:00,2:00,,,,,"2, 5-6, 8-9, 11-14"
+EEEE3103/L1/01,Power electronic applications and control,Lecture,47,Thursday,13:00,15:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,"Jing Li,John Xu","2, 4-14"
+EEEE1035/L2/01,Power and Energy,Lecture,88,Thursday,14:00,16:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Chunyang Gu,"2, 4, 6-8, 10-12"
+,,,,,,,,,,,,
+Friday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+EEEE1036/L2/01,Information and Systems,Lecture,88,Friday,9:00,11:00,2:00,IAMET- 121+,IAMET- 121+,99,David Cho,"2, 4, 6-8, 10-12"
+EEEE2060/L1/01,Contemporary Engineering Themes,Lecture,23,Friday,9:00,11:00,2:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Giampaolo Buticchi,Jim Greer,Yaping Zhang","2, 5-6, 8-9, 11-14"
+EEEE3107/L1/01,Advanced engineering mathematics,Lecture,18,Friday,9:00,11:00,2:00,DB-C07+,The Lord Dearing Building - Teaching Room C07,20,Chengbo Wang,"2, 4-14"
+EEEE2059/P5(Fri)/01,Practical Engineering Design Solutions and Project Development,Practical,23,Friday,10:00,17:00,7:00,PMB-207*,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab,40,"Forrest Ji,Liang Huang,Shun Bai","4, 7, 10"
+EEEE1039/P5(Fri)/01,Applied Electrical and Electronic Engineering: Construction Project,Practical,8,Friday,10:00,18:00,8:00,"PMB-208*,PMB-207*","PMB Lab Room 208 - Level 2 - Electrical engineering lab &Physics Lab,PMB Lab Room 207 - Level 2 - Electrical Engineering Lab","40,40","Chiew-Foong Kwong,Chunyang Gu,Gigi Lu,Jing Wang","5, 9, 13-14"
+EEEE1039/S1 safery training/01,Applied Electrical and Electronic Engineering: Construction Project,Seminar,88,Friday,13:00,14:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Jing Ma,2
+EEEE1039/S3 JG talk/01,Applied Electrical and Electronic Engineering: Construction Project,Seminar,88,Friday,13:00,14:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Jim Greer,4
+EEEE3107/C1/01,Advanced engineering mathematics,Computing,18,Friday,13:00,15:00,2:00,PB-415(COMP)+,Portland Building-Computer Lab 415 - Level 4,36,Chengbo Wang,8月12日
+EEEE1037/L2/01,Engineering Analysis,Lecture,88,Friday,15:00,17:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Liwen Huang,"2, 4, 6-8, 10-12"
+EEEE2060/L2/01,Contemporary Engineering Themes,Lecture,23,Friday,16:00,18:00,2:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Giampaolo Buticchi,Jim Greer,Yaping Zhang","2, 5-6, 8-9, 11-14"
+EEEE3103/L2/01,Power electronic applications and control,Lecture,47,Friday,16:00,18:00,2:00,DB-A04+,DB-A04 - Teaching Room A04,60,"Jing Li,John Xu","2, 4-14"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Weeks 2 & 4-14 = Autumn semester; Weeks 23-34 = Spring semester,,,,,,,,,,,,

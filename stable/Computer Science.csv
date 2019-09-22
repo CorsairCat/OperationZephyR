@@ -1,0 +1,67 @@
+Monday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+COMP2050/L1/01,Software Maintenance,Lecture,120,Monday,9:00,11:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Nasser Mustafa,Heng Yu,Boon Giin Lee","2, 4-14"
+COMP3069/L1/01,Computer Graphics,Lecture,80,Monday,9:00,11:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Sheung Hung Poon,"2, 4-14"
+COMP1038/L1 (w4)/01,Programming and Algorithms,Lecture,146,Monday,9:00,11:00,2:00,D.H Lawrence Auditorium+,D.H Lawrence Auditorium,977,"Prapa Rattadilok,Jiawei Li (Michael),Pushpendu Kar",4
+COMP1038/L2/01,Programming and Algorithms,Lecture,146,Monday,11:00,12:00,1:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Prapa Rattadilok,Jiawei Li (Michael),Pushpendu Kar","2, 4, 6-14"
+COMP1040/L1/01,Systems and Architecture,Lecture,146,Monday,13:00,15:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Ying Weng,Amin Farjudian,Heng Yu","2, 4-14"
+COMP3069/C1/01,Computer Graphics,Computing,80,Monday,13:00,16:00,3:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,Sheung Hung Poon,"2, 4-14"
+COMP1036/L1/01,Computer Fundamentals,Clinical Skills,146,Monday,16:00,18:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Jianfeng Ren,Chris Roadknight","2, 4-14"
+COMP2050/C1/01,Software Maintenance,Computing,60,Monday,16:00,18:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Nasser Mustafa,Heng Yu,Boon Giin Lee","2, 4-14"
+,,,,,,,,,,,,
+Tuesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+COMP1036/C1/01,Computer Fundamentals,Computing,73,Tuesday,9:00,11:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Joseph Zhang,Jianfeng Ren,Chris Roadknight","2, 4-14"
+COMP2046/L1/01,Operating Systems & Concurrency,Lecture,120,Tuesday,9:00,11:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Saeid Pourroostaei Ardakani,Qian Zhang","2, 4-14"
+COMP3055/L1/01,Machine Learning,Lecture,80,Tuesday,9:00,11:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,"Zheng Lu,Ying Weng","2, 4-14"
+COMP3050/L1/01,Individual Dissertation Single Honours,Lecture,84,Tuesday,11:00,12:00,1:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Matthew Pike,"2, 4-14"
+COMP1038/C1/02,Programming and Algorithms,Computing,73,Tuesday,12:00,14:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Prapa Rattadilok,Jiawei Li (Michael),Pushpendu Kar","2, 4-14"
+COMP3056/L1/01,Professional Ethics in Computing,Clinical Skills,100,Tuesday,13:00,14:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,Vladimir Brusic,"2, 4-14"
+COMP2048/L1/01,Algorithms Correctness and Efficiency,Lecture,120,Tuesday,13:00,15:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Jianfeng Ren,Heshan Du","2, 4-14"
+COMP1040/C1/01,Systems and Architecture,Computing,73,Tuesday,14:00,16:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Ying Weng,Amin Farjudian,Heng Yu","2, 4-14"
+COMP2048/C1/02,Algorithms Correctness and Efficiency,Computing,60,Tuesday,16:00,18:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Jianfeng Ren,Heshan Du","2, 4-14"
+COMP3053/L2/01,Software Quality Assurance,Lecture,20,Tuesday,16:00,18:00,2:00,TB-404+,Teaching Building Seminar Room 404 - Level 4,30,"Dave Towey,Pushpendu Kar","2, 4-14"
+,,,,,,,,,,,,
+Wednesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+COMP2050/W1/01,Software Maintenance,Workshop,60,Wednesday,9:00,10:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Nasser Mustafa,Heng Yu,Boon Giin Lee","2, 4-14"
+COMP1034/L1/01,Mathematics for Computer Scientists,Lecture,146,Wednesday,9:00,11:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Heshan Du,Anthony Bellotti","2, 4-14"
+COMP2050/W1/02,Software Maintenance,Workshop,60,Wednesday,10:00,11:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Nasser Mustafa,Heng Yu,Boon Giin Lee","2, 4-14"
+COMP2043/L1/01,Software Engineering Group Project,Lecture,120,Wednesday,11:00,13:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,Dave Towey,"2, 4-14"
+COMP3055/C1/01,Machine Learning,Computing,80,Wednesday,11:00,13:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Zheng Lu,Ying Weng","2, 4-14"
+COMP1038/L2 (w4)/01,Programming and Algorithms,Lecture,146,Wednesday,12:00,13:00,1:00,Auditorium+,Auditorium,514,"Prapa Rattadilok,Jiawei Li (Michael),Pushpendu Kar",4
+,,,,,,,,,,,,
+Thursday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+COMP3055/L2/01,Machine Learning,Lecture,80,Thursday,9:00,11:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,"Zheng Lu,Ying Weng","2, 4-14"
+COMP2050/C1/02,Software Maintenance,Computing,60,Thursday,9:00,11:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Nasser Mustafa,Heng Yu,Boon Giin Lee","2, 4-14"
+COMP1038/L1/01,Programming and Algorithms,Lecture,146,Thursday,9:00,11:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Prapa Rattadilok,Jiawei Li (Michael),Pushpendu Kar","2, 4, 6-14"
+COMP2048/T1/01,Algorithms Correctness and Efficiency,Tutorial,60,Thursday,11:00,12:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Jianfeng Ren,Heshan Du","2, 4-14"
+COMP3053/L1/01,Software Quality Assurance,Lecture,20,Thursday,12:00,13:00,1:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,"Dave Towey,Pushpendu Kar","2, 4-14"
+COMP2048/C1/01,Algorithms Correctness and Efficiency,Computing,60,Thursday,12:00,14:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Jianfeng Ren,Heshan Du","2, 4-14"
+COMP1040/L2/01,Systems and Architecture,Lecture,146,Thursday,13:00,14:00,1:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Ying Weng,Amin Farjudian,Heng Yu","2, 4-14"
+COMP2046/C1/02,Operating Systems & Concurrency,Computing,60,Thursday,14:00,15:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Saeid Pourroostaei Ardakani,Qian Zhang","2, 4-14"
+COMP3056/W1/01,Professional Ethics in Computing,Workshop,48,Thursday,14:00,16:00,2:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,Vladimir Brusic,"2, 4-14"
+COMP2046/C1/01,Operating Systems & Concurrency,Computing,60,Thursday,15:00,16:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Saeid Pourroostaei Ardakani,Qian Zhang","2, 4-14"
+COMP1034/T1/01,Mathematics for Computer Scientists,Tutorial,73,Thursday,16:00,17:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Heshan Du,Anthony Bellotti","2, 4-14"
+COMP3056/W1/02,Professional Ethics in Computing,Workshop,48,Thursday,16:00,18:00,2:00,DB-C06+,The Lord Dearing Building - Teaching Room C06,90,Vladimir Brusic,"2, 4-14"
+COMP1034/T1/02,Mathematics for Computer Scientists,Tutorial,73,Thursday,17:00,18:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Heshan Du,Anthony Bellotti","2, 4-14"
+,,,,,,,,,,,,
+Friday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+COMP2046/L2/01,Operating Systems & Concurrency,Lecture,120,Friday,9:00,10:00,1:00,DB-C05+,The Lord Dearing Building - Teaching Room C05,160,"Saeid Pourroostaei Ardakani,Qian Zhang","2, 4-14"
+COMP1036/C1/02,Computer Fundamentals,Computing,73,Friday,9:00,11:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Joseph Zhang,Jianfeng Ren,Chris Roadknight","2, 4-14"
+COMP2048/T1/02,Algorithms Correctness and Efficiency,Tutorial,60,Friday,11:00,12:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Jianfeng Ren,Heshan Du","2, 4-14"
+COMP1038/C1/01,Programming and Algorithms,Computing,73,Friday,12:00,14:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Prapa Rattadilok,Jiawei Li (Michael),Pushpendu Kar","2, 4-14"
+COMP1040/C1/02,Systems and Architecture,Computing,73,Friday,14:00,16:00,2:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,"Ying Weng,Amin Farjudian,Heng Yu","2, 4-14"
+COMP1038/T1/01,Programming and Algorithms,Tutorial,73,Friday,16:00,17:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,Jiawei Li (Michael),"2, 4-14"
+COMP1038/T1/02,Programming and Algorithms,Tutorial,73,Friday,17:00,18:00,1:00,PMB-432+,PMB Flat Lecture Room 432 - Level 4 - Priority by Faculty Office of Science and Engineering (20 comp FoSE only),84,Jiawei Li (Michael),"2, 4-14"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Weeks 2 & 4-14 = Autumn semester; Weeks 23-34 = Spring semester,,,,,,,,,,,,

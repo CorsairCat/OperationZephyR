@@ -1,0 +1,88 @@
+Monday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+CHEE3042/L1/01,Process Engineering Laboratories,Lecture,30,Monday,9:00,11:00,2:00,TB-105+,Teaching Building Seminar Room 105- Level 1,42,Mengxia Xu,2
+CHEE2050/L1/01,Process Design & Control,Lecture,34,Monday,9:00,11:00,2:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Hainam Do,"2, 4-14"
+CHEE3042/P2-1/01,Process Engineering Laboratories,Practical,11,Monday,9:00,12:00,3:00,"PMB-122*,PMB-106*","PMB Lab Room 122 - Level 1 - Chemical Engineering lab,PMB Lab Room 106 - Level 1 - Chemical Engineering lab","20,36","Jane Zhang,Julian Zhu,Karey Shan,Mengxia Xu,","4-9, 11-13"
+CHEE1022/C1/03,Fundamentals of Engineering Design,Computing,32,Monday,9:00,12:00,3:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,"Chengheng Pang,Di Hu","4-9, 11-14"
+CHEE3042/P3/01,Process Engineering Laboratories,Practical,11,Monday,9:00,12:00,3:00,"PMB-122*,PMB-106*","PMB Lab Room 122 - Level 1 - Chemical Engineering lab,PMB Lab Room 106 - Level 1 - Chemical Engineering lab","20,36","Jane Zhang,Julian Zhu,Karey Shan,Mengxia Xu,",14
+CHEE3042/P1/01,Process Engineering Laboratories,Practical,1,Monday,13:00,17:30,4:30,"PMB-122*,PMB-106*","PMB Lab Room 122 - Level 1 - Chemical Engineering lab,PMB Lab Room 106 - Level 1 - Chemical Engineering lab","20,36","Jane Zhang,Julian Zhu,Karey Shan,Mengxia Xu,",2
+CHEE1042&1038/L1/01(staff/location info refer to CHEE1042),"An Introduction To Spectroscopy, Energy And Bonding In Chemistry",Lecture,21,Monday,13:00,15:00,2:00,,,,,"2, 4-9, 11-14"
+CHEE1042&1038/L1/01 (check CHEE1023 timetable for lab CHEE1023&1041&1042),Chemistry For Engineers,Lecture,96,Monday,13:00,15:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Kam Loon Fow,Bencan Tang","2, 4-9, 11-14"
+CHEE3042/P2-2/01,Process Engineering Laboratories,Practical,1,Monday,13:00,17:30,4:30,"PMB-122*,PMB-106*","PMB Lab Room 122 - Level 1 - Chemical Engineering lab,PMB Lab Room 106 - Level 1 - Chemical Engineering lab","20,36","Jane Zhang,Julian Zhu,Karey Shan,Mengxia Xu,","4-9, 11-13"
+CHEE3042/P4 (Pre)/01,Process Engineering Laboratories,Practical,30,Monday,13:00,17:00,4:00,PMB-115 (teaching)*,PMB - Lab Room 115 - Level 1 - Engineering Application workshop,56,Mengxia Xu,14
+CHEE2050/C1/01,Process Design & Control,Computing,34,Monday,15:00,18:00,3:00,PMB-306(COMP)+,PMB Computer Teaching Room 306 - Level 3 - Priority by Faculty Office of Science and Engineering,72,Hainam Do,"2, 4-14"
+CHEE1022/C1/02,Fundamentals of Engineering Design,Computing,32,Monday,16:00,19:00,3:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,"Chengheng Pang,Di Hu","4-9, 11-14"
+,,,,,,,,,,,,
+Tuesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+CHEE1023/L1/01,Fluid Mechanics,Lecture,73,Tuesday,9:00,11:00,2:00,DB-C06+,The Lord Dearing Building - Teaching Room C06,90,Kien Woh Kow,"2, 4-9, 11-14"
+CHEE2051/L1/01,Separation & Particle Technology,Lecture,34,Tuesday,9:00,11:00,2:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,"Mengxia Xu,Svenja Hanson","2, 4-14"
+CHEE3035/L1/01,Water Treatment,Lecture,8,Tuesday,9:00,11:00,2:00,PB-217+,Portland Building-Seminar Room 217 - Level 2,16,Di Hu,"2, 4-14"
+CHEE3031/L1/01,Process Simulation 1,Lecture,22,Tuesday,9:00,11:00,2:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Binjie Hu,"2, 4-14"
+CHEE1043/P1/01,Foundation Laboratory Work,Practical,21,Tuesday,9:00,18:00,9:00,PMB-213*,PMB Lab Room 213 - Level 2 - Chemisty Lab,40,"Karey Shan,Julian Zhu,Jane Zhang,Elena Konysheva","4-9, 11-14"
+CHEE1041/L1/01,"Process Engineering Principles (Joint lab with CHEE1023&1042, check CHEE1023 timetable for lab CHEE1023&1041&1042)",Lecture,73,Tuesday,12:00,14:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Binjie Hu,"2, 4-9, 11-14"
+CHEE2051/S1/01,Separation & Particle Technology,Seminar,33,Tuesday,13:00,14:00,1:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,"Mengxia Xu,Svenja Hanson","2, 4-14"
+CHEE3034/L1/01,Design Project,Tutorial,33,Tuesday,14:00,17:00,3:00,PMB-115 (teaching)*,PMB - Lab Room 115 - Level 1 - Engineering Application workshop,56,Philip Hall,"2, 4-14"
+CHEE1022/C1/01,Fundamentals of Engineering Design,Computing,32,Tuesday,15:00,18:00,3:00,PMB-306(COMP)+,PMB Computer Teaching Room 306 - Level 3 - Priority by Faculty Office of Science and Engineering,72,"Di Hu,Chengheng Pang","4-9, 11-14"
+CHEE2041/L1/01,Environmental Assessment,Lecture,28,Tuesday,16:00,18:00,2:00,DB-C01+,The Lord Dearing Building - Teaching Room C01,30,Yong Sun,"2, 4-14"
+CHEE1023/S1/02,Fluid Mechanics,Seminar,40,Tuesday,17:00,18:00,1:00,TB-330+,Teaching Building Lecture Hall 330 - Level 3,41,Kien Woh Kow,"2, 4-9, 11-14"
+,,,,,,,,,,,,
+Wednesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+CHEE1039/L1/01,"An Introduction to Structure, Periodicity and Coordination Chemistry",Seminar,21,Wednesday,9:00,11:00,2:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Elena Konysheva,"2, 4-14"
+CHEE3040/L1/01,Air Pollution,Lecture,8,Wednesday,9:00,12:00,3:00,PB-217+,Portland Building-Seminar Room 217 - Level 2,16,Jun He,"2, 4-14"
+CHEE3031/C1/01,Process Simulation 1,Computing,22,Wednesday,9:00,13:00,4:00,PB-119(COMP)+,Portland Building-Computer Lab 119 - Level 1,35,Binjie Hu,"2, 4-14"
+CHEE2041/P1/01,Environmental Assessment,Practical,28,Wednesday,9:00,13:00,4:00,,,,Yong Sun,6
+CHEE2029&2051/P1/01,Interfacial Chemistry,Practical,11,Wednesday,9:00,13:00,4:00,"PMB-108*,PMB-106*","PMB Lab Room 108 - Level 1 - Chemisty Lab,PMB Lab Room 106 - Level 1 - Chemical Engineering lab","24,36","Bencan Tang,Jane Zhang,Julian Zhu,Karey Shan,Mengxia Xu,Svenja Hanson","7-9, 11-13"
+CHEE1023/S1/01,Fluid Mechanics,Seminar,40,Wednesday,11:00,12:00,1:00,TB-227+,Teaching Building Seminar Room 227 - Level 2,41,Kien Woh Kow,"2, 4-9, 11-14"
+CHEE1022/S1/01,Fundamentals of Engineering Design,Seminar,94,Wednesday,12:00,13:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Elena Konysheva,Chengheng Pang,Di Hu","2, 4-9, 11-14"
+,,,,,,,,,,,,
+Thursday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+CHEE1022/L1/01,Fundamentals of Engineering Design,Lecture,94,Thursday,9:00,11:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Elena Konysheva,Chengheng Pang,Di Hu","2, 4-9, 11-14"
+CHEE2051/L2/01,Separation & Particle Technology,Lecture,34,Thursday,9:00,11:00,2:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,"Mengxia Xu,Svenja Hanson","2, 4-14"
+CHEE3034/L2/01,Design Project,Tutorial,33,Thursday,9:00,12:00,3:00,PMB-115 (teaching)*,PMB - Lab Room 115 - Level 1 - Engineering Application workshop,56,Philip Hall,"2, 4-14"
+CHEE1041/S1/01,"Process Engineering Principles (Joint lab with CHEE1023&1042, check CHEE1023 timetable for lab CHEE1023&1041&1042)",Seminar,73,Thursday,11:00,12:00,1:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Binjie Hu,"2, 4-9, 11-14"
+CHEE2027/L1/01,Chemical and Phase Equilibria,Lecture,8,Thursday,12:00,14:00,2:00,PB-217+,Portland Building-Seminar Room 217 - Level 2,16,Yong Sun,"2, 4-14"
+CHEE1022/L2/01,Fundamentals of Engineering Design,Lecture,94,Thursday,13:00,15:00,2:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Elena Konysheva,Chengheng Pang,Di Hu","2, 4-9, 11-14"
+CHEE3032/L1/01,Reactor Design,Lecture,33,Thursday,13:00,15:00,2:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Tao Wu,"2, 4-14"
+CHEE2029/S1/01,Interfacial Chemistry,Seminar,8,Thursday,15:00,16:00,1:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Bencan Tang,"4-9, 11-14"
+CHEE1023&1041&1042/P1/01,Fluid Mechanics,Practical,11,Thursday,15:00,18:00,3:00,"PMB-213*,PMB-212*,PMB-122*","PMB Lab Room 213 - Level 2 - Chemisty Lab,PMB Lab Room 212 - Level 2 - Thermofluid Lab,PMB Lab Room 122 - Level 1 - Chemical Engineering lab","40,24,20",",Kien Woh Kow,Karey Shan,Binjie Hu,Jane Zhang,Kam Loon Fow","6-9, 11-12"
+CHEE1037/L1/01,An Introduction to Organic Molecules and their Reactivity,Seminar,21,Thursday,16:00,18:00,2:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Bencan Tang,"2, 4-9, 11-14"
+CHEE2037/L1/01,Hydrology and Hydrogeology,Lecture,28,Thursday,16:00,18:00,2:00,DB-C01+,The Lord Dearing Building - Teaching Room C01,30,Chengheng Pang,"2, 4-14"
+CHEE3029/L1/01,Multicomponent Separations,Lecture,33,Thursday,16:00,18:00,2:00,DB-C04+,The Lord Dearing Building - Teaching Room C04,48,Svenja Hanson,"2, 4-14"
+,,,,,,,,,,,,
+Friday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+CHEE2041/S1/01,Environmental Assessment,Seminar,28,Friday,9:00,10:00,1:00,DB-A01+,The Lord Dearing Building - Teaching Room A01,30,Yong Sun,"2, 4-14"
+CHEE2029/L1/01,"Interfacial Chemistry (Joint lab with CHEE2051, check CHEE2051 timetable for CHEE2029&2051/P1)",Lecture,8,Friday,9:00,11:00,2:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Bencan Tang,"2, 4-9, 11-14"
+"CHEE1023&1041&1042/P3 (w6,12)/01",Fluid Mechanics,Practical,11,Friday,9:00,12:00,3:00,"PMB-213*,PMB-212*,PMB-122*","PMB Lab Room 213 - Level 2 - Chemisty Lab,PMB Lab Room 212 - Level 2 - Thermofluid Lab,PMB Lab Room 122 - Level 1 - Chemical Engineering lab","40,24,20",",Kien Woh Kow,Karey Shan,Binjie Hu,Jane Zhang,Kam Loon Fow","6, 12"
+CHEE3032/S1/01,Reactor Design,Seminar,33,Friday,10:00,11:00,1:00,PMB-115 (teaching)*,PMB - Lab Room 115 - Level 1 - Engineering Application workshop,56,Tao Wu,"2, 4-8, 10-12, 14"
+CHEE3032/S1/01,Reactor Design,Seminar,33,Friday,10:00,11:00,1:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Tao Wu,"9, 13"
+CHEE3029/S1/01,Multicomponent Separations,Seminar,33,Friday,11:00,12:00,1:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Svenja Hanson,"2, 4-14"
+CHEE2050/S1/01,Process Design & Control,Seminar,34,Friday,11:00,12:00,1:00,TB-227+,Teaching Building Seminar Room 227 - Level 2,41,Hainam Do,"2, 4-14"
+CHEE1037/S1/01,An Introduction to Organic Molecules and their Reactivity,Seminar,21,Friday,11:00,12:00,1:00,DB-C08+,The Lord Dearing Building - Teaching Room C08,24,Bencan Tang,"4-9, 11-14"
+CHEE1042&1038/S2/01 (check CHEE1023 timetable for lab CHEE1023&1041&1042),Chemistry For Engineers,Seminar,96,Friday,13:00,14:00,1:00,IAMET- 121+,IAMET- 121+,99,"Kam Loon Fow,Bencan Tang",4
+CHEE1042&1038/S2/01 (staff/location info refer to CHEE1042),"An Introduction To Spectroscopy, Energy And Bonding In Chemistry",Seminar,21,Friday,13:00,14:00,1:00,,,,,4
+CHEE3041/L1/01,Industrial Process Analysis,Lecture,22,Friday,13:00,15:00,2:00,TB-402+,Teaching Building Seminar Room 402 - Level 4,30,Hainam Do,"2, 13"
+CHEE2051/S2/01,Separation & Particle Technology,Seminar,34,Friday,13:00,14:00,1:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,"Mengxia Xu,Svenja Hanson","2, 4-14"
+CHEE1042&1038/S1/01 (staff/location info refer to CHEE1042),"An Introduction To Spectroscopy, Energy And Bonding In Chemistry",Seminar,21,Friday,13:00,14:00,1:00,,,,,"5-9, 11-14"
+CHEE1042&1038/S1/01 (check CHEE1023 timetable for lab CHEE1023&1041&1042),Chemistry For Engineers,Seminar,96,Friday,13:00,14:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Kam Loon Fow,Bencan Tang","5-9, 11-14"
+CHEE3041/L1/01,Industrial Process Analysis,Lecture,22,Friday,13:00,15:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,Hainam Do,"4-12, 14"
+CHEE1022/S2/01,Fundamentals of Engineering Design,Seminar,94,Friday,14:00,15:00,1:00,DB-B05+,The Lord Dearing Building - Teaching Room B05,102,"Elena Konysheva,Chengheng Pang,Di Hu","2, 4-9, 11-14"
+CHEE3041/S1/01,Industrial Process Analysis,Seminar,22,Friday,15:00,16:00,1:00,TB-402+,Teaching Building Seminar Room 402 - Level 4,30,Hainam Do,"2, 13"
+CHEE2027/S1/01,Chemical and Phase Equilibria,Seminar,8,Friday,15:00,16:00,1:00,PB-217+,Portland Building-Seminar Room 217 - Level 2,16,Yong Sun,"2, 4-14"
+CHEE2037/S1/01,Hydrology and Hydrogeology,Seminar,28,Friday,15:00,17:00,2:00,PB-115+,Portland Building-Seminar Room 115 - Level 1,30,Chengheng Pang,"2, 4-14"
+CHEE3041/S1/01,Industrial Process Analysis,Seminar,22,Friday,15:00,16:00,1:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,Hainam Do,"4-12, 14"
+CHEE1023&1041&1042/P2/01,Fluid Mechanics,Practical,11,Friday,15:00,18:00,3:00,"PMB-213*,PMB-212*,PMB-122*","PMB Lab Room 213 - Level 2 - Chemisty Lab,PMB Lab Room 212 - Level 2 - Thermofluid Lab,PMB Lab Room 122 - Level 1 - Chemical Engineering lab","40,24,20",",Kien Woh Kow,Karey Shan,Binjie Hu,Jane Zhang,Kam Loon Fow","6-9, 11-12"
+CHEE3035/S1/01,Water Treatment,Seminar,8,Friday,16:00,17:00,1:00,PB-217+,Portland Building-Seminar Room 217 - Level 2,16,Di Hu,"2, 4-14"
+CHEE1039/S1/01,"An Introduction to Structure, Periodicity and Coordination Chemistry",Seminar,21,Friday,16:00,17:00,1:00,DB-C01+,The Lord Dearing Building - Teaching Room C01,30,Elena Konysheva,5ÔÂ14ÈÕ
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Weeks 2 & 4-14 = Autumn semester; Weeks 23-34 = Spring semester,,,,,,,,,,,,

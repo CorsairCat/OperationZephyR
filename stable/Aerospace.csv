@@ -1,0 +1,57 @@
+Monday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+AERO2004/L1/01,Professional Engineering and Project 2,Lecture,16,Monday,9:00,10:30,1:30,DB-C07+,The Lord Dearing Building - Teaching Room C07,20,"Devinder Yadav,Sannia Mareta","2, 4-10, 13-14"
+AERO1000/L1/01,Aerospace Design and Materials,Lecture,55,Monday,9:00,12:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Haonan Li,"2, 4-10, 13-14, 17-18"
+AERO2003/L1/01,Dynamics and Flight Mechanics,Lecture,16,Monday,12:00,15:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,"Yixiang Xu,Dinesh Bhatia","2, 4-10, 13-14, 17-18"
+AERO1001/L1/01,Aerospace Statics and Dynamics,Lecture,55,Monday,15:00,18:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Chungket Thein,"2, 4-10, 13-14, 17-18"
+AERO2000/P1/01,Aerospace Design 2,Practical,4,Monday,15:00,18:00,3:00,,,,Haonan Li,10
+,,,,,,,,,,,,
+Tuesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+AERO1005/L1/01,Aerospace Electrical and Electronic Engineering 1,Lecture,55,Tuesday,9:00,12:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Michael Galea,"2, 4-10, 13-14"
+AERO2004/L1 (wk17-18)/01,Professional Engineering and Project 2,Lecture,16,Tuesday,9:00,10:30,1:30,IAMET- 218 (Teaching room)+,IAMET- 218,77,"Devinder Yadav,Sannia Mareta",17-18
+AERO2001/L1/01,Airframe and Materials,Lecture,16,Tuesday,12:00,15:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,A Aero New 1,"2, 4-10, 13-14, 17-18"
+AERO1000/P1/01,Aerospace Design and Materials,Practical,13,Tuesday,15:00,18:00,3:00,IAMET-101(Lab)+,IAMET-101,18,"Benli Fang,Haonan Li",5
+AERO1000/P1/02,Aerospace Design and Materials,Practical,13,Tuesday,15:00,18:00,3:00,IAMET-101(Lab)+,IAMET-101,18,"Benli Fang,Haonan Li",6
+AERO1005/P1/01,Aerospace Electrical and Electronic Engineering 1,Lecture,1,Tuesday,15:00,18:00,3:00,PMB-208*,PMB Lab Room 208 - Level 2 - Electrical engineering lab &Physics Lab,40,"Benli Fang,Michael Galea",7
+AERO2000/P1/03,Aerospace Design 2,Practical,4,Tuesday,15:00,18:00,3:00,,,,Haonan Li,10
+AERO1002/P1/01,Aerospace Aerodynamics,Practical,55,Tuesday,15:00,17:00,2:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Dinesh Bhatia,13
+AERO2002/P1/01,Aerospace Aerodynamics and Propulsion,Practical,16,Tuesday,15:00,18:00,3:00,,,,A Aero New 2,"9, 17"
+AERO1001/P1/01,Aerospace Statics and Dynamics,Practical,1,Tuesday,15:00,18:00,3:00,PMB-202*,PMB Lab Room 202 - Level 2 - Geotechic Lab,20,"Chungket Thein,Benli Fang",14
+,,,,,,,,,,,,
+Wednesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+AERO1004/L1/01,Professional Engineering and Project 1,Lecture,55,Wednesday,9:00,10:30,1:30,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Devinder Yadav,"2, 4-10, 13-14"
+AERO2005/P1/01,Control of Aerospace Systems,Practical,16,Wednesday,9:00,12:00,3:00,,,,A Aero New 3,10
+AERO2003/S1/01,Dynamics and Flight Mechanics,Seminar,16,Wednesday,9:00,11:00,2:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Yixiang Xu,13-14
+AERO2002/P2/01,Aerospace Aerodynamics and Propulsion,Practical,16,Wednesday,9:00,12:00,3:00,,,,A Aero New 2,"9, 17"
+AERO1000/S1/01,Aerospace Design and Materials,Seminar,55,Wednesday,11:00,13:00,2:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Haonan Li,"2, 4-10, 13-14, 17-18"
+,,,,,,,,,,,,
+Thursday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+AERO1004/P1/02,Professional Engineering and Project 1,Practical,26,Thursday,9:00,11:00,2:00,IAMET- 201(lab)+,IAMET- 201,40,"Benli Fang,Devinder Yadav","4-10, 13-17"
+AERO2000/L1/01,Aerospace Design 2,Lecture,16,Thursday,9:00,12:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Haonan Li,"2, 4-10, 13-14, 17-18"
+AERO1004/P1/01,Professional Engineering and Project 1,Practical,26,Thursday,12:00,14:00,2:00,IAMET- 201(lab)+,IAMET- 201,40,"Benli Fang,Devinder Yadav","4-10, 13-17"
+AERO2003/S2/01,Dynamics and Flight Mechanics,Seminar,16,Thursday,13:00,15:00,2:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Yixiang Xu,13-14
+AERO1002/L1/01,Aerospace Aerodynamics,Lecture,55,Thursday,15:00,18:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Dinesh Bhatia,"2, 4-10, 13-14, 17-18"
+AERO2002/L1/01,Aerospace Aerodynamics and Propulsion,Lecture,16,Thursday,15:00,18:00,3:00,IAMET- 121+,IAMET- 121+,99,A Aero New 2,"2, 4-10, 13-14, 17-18"
+,,,,,,,,,,,,
+Friday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+AERO2005/L1/01,Control of Aerospace Systems,Lecture,16,Friday,9:00,12:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,A Aero New 3,"2, 4-10, 13-14, 17-18"
+AERO1000/P1/04,Aerospace Design and Materials,Practical,13,Friday,9:00,12:00,3:00,IAMET-101(Lab)+,IAMET-101,18,"Benli Fang,Haonan Li",5
+AERO1000/P1/03,Aerospace Design and Materials,Practical,13,Friday,9:00,12:00,3:00,IAMET-101(Lab)+,IAMET-101,18,"Benli Fang,Haonan Li",6
+AERO1001/P1/02,Aerospace Statics and Dynamics,Practical,1,Friday,9:00,12:00,3:00,PMB-202*,PMB Lab Room 202 - Level 2 - Geotechic Lab,20,"Chungket Thein,Benli Fang",14
+AERO2000/S1/01,Aerospace Design 2,Seminar,16,Friday,13:00,15:00,2:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Haonan Li,"2, 4-10, 13-14, 17-18"
+AERO1003/L1/01,Aircraft design and Performance,Lecture,55,Friday,15:00,18:00,3:00,IAMET- 218 (Teaching room)+,IAMET- 218,77,Yixiang Xu,"2, 4-10, 13-14, 17-18"
+AERO2000/P1/02,Aerospace Design 2,Practical,4,Friday,15:00,18:00,3:00,,,,Haonan Li,9
+AERO2000/P1/04,Aerospace Design 2,Practical,4,Friday,15:00,18:00,3:00,,,,Haonan Li,10
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Weeks 2 & 4-14 = Autumn semester; Weeks 23-34 = Spring semester,,,,,,,,,,,,

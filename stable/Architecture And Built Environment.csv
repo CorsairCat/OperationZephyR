@@ -1,0 +1,91 @@
+Monday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+ABEE1024/L1/01,Thermofluids 2,Lecture,20,Monday,9:00,11:00,2:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Liang Xia,Isaac Lun","2, 4-14"
+ABEE1023/W1/01,Architectural Design Studio 1A,Workshop,45,Monday,9:00,17:00,8:00,PMB-302*,PMB Architecture Teaching Room 302 - Level 3 - Priority by Faculty Office of Science and Engineering (Architecture),54,"Yimeng Wang,Aurel Fabri,Jun Lu,Kliment Radoev","2, 4-14"
+ABEE3026/L1/01,Integrated Design in Architecture 3,Lecture,36,Monday,11:00,13:00,2:00,CSET- basement Studio*,CSET- basement Studio - for Arch,120,"Eugenio Mangi,Hiroyuki Shinohara,Ali Cheshmehzangi,Wu Deng","2, 4-13"
+ABEE3048/L2/01,Heat transfer and cooling technology,Lecture,28,Monday,11:00,13:00,2:00,TB-331+,Teaching Building Seminar Room 331 - Level 3,45,"Tongyu Zhou,Siegfried Yeboah","2, 4-14"
+ABEE1025/L1/01,Architectural Engineering Design 1,Lecture,68,Monday,13:00,15:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Ed Cooper,"2, 4-14"
+ABEE3028/L1/01,Urban Design Theory,Lecture,30,Monday,14:00,16:00,2:00,CSET- basement Studio*,CSET- basement Studio - for Arch,120,"Jing Xie,Ali Cheshmehzangi,A Arch New Staff 2","2, 4-13"
+ABEE3029/L1/01,Building Information Modelling & Management,Lecture,45,Monday,14:00,16:00,2:00,IAMET- 121+,IAMET- 121+,99,Georgios Kapogiannis,"2, 4-6, 9-10, 13"
+ABEE2027/L1/01,Tectonics 2A,Lecture,55,Monday,16:00,18:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,Eugenio Mangi,"2, 4-13"
+ABEE2029/L1/01,Fluid Mechanics and the Built Environment 1,Lecture,68,Monday,16:00,17:00,1:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,"Isaac Lun,Liang Xia","2, 4-14"
+ABEE2016/L1/01,Acoustics and Lighting,Lecture,20,Monday,16:00,18:00,2:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Tongyu Zhou,Siegfried Yeboah","2, 4-14"
+,,,,,,,,,,,,
+Tuesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+ABEE3031/L1/01,Architectural Engineering Design 5,Lecture,36,Tuesday,9:00,12:00,3:00,TB-109+,Teaching Building Seminar Room 109 - Level 1,40,Sung-Hugh Hong,"2, 4-14"
+ABEE2022&3025/W1/01,Architectural Design Studio 2A/3,Workshop,55,Tuesday,9:00,17:00,8:00,CSET- basement Studio*,CSET- basement Studio - for Arch,120,"Yimeng Wang,Yat Ming Loo,Jing Xie,Hiroyuki Shinohara,A Arch New Staff 2,A Arch New Staff 1,Eugenio Mangi","2, 4-14"
+ABEE2022&3025/W1/01 (location/staff refer to ABEE2022),Architectural Design Studio 2A/3,Workshop,55,Tuesday,9:00,17:00,8:00,,,,,"2, 4-14"
+ABEE2032/L1/01,Environmental Performance Modelling,Lecture,20,Tuesday,11:00,12:00,1:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Tongyu Zhou,"2, 4-14"
+ABEE3030/L1/01,Computational Fluid Dynamics for the Built Environment,Lecture,36,Tuesday,13:00,15:00,2:00,PB-415(COMP)+,Portland Building-Computer Lab 415 - Level 4,36,Isaac Lun,"2, 4-14"
+ABEE1021/L1/01,Tectonics 1,Lecture,45,Tuesday,14:00,16:00,2:00,PB-312+,Portland Building-Seminar Room 312 - Level 3,48,"Kliment Radoev,Jun Lu","2, 4-13"
+ABEE1013/L1/01,Performance of Construction Materials,Lecture,68,Tuesday,14:00,16:00,2:00,DB-A06+,The Lord Dearing Building - Teaching Room A06,90,Ed Cooper,"2, 4-14"
+ABEE2032/P1/01,Environmental Performance Modelling,Practical,20,Tuesday,15:00,18:00,3:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,Tongyu Zhou,"2, 4-12"
+,,,,,,,,,,,,
+Wednesday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+ABEE3031/S1/01,Architectural Engineering Design 5,Seminar,36,Wednesday,9:00,12:00,3:00,TB-109+,Teaching Building Seminar Room 109 - Level 1,40,Sung-Hugh Hong,"2, 4-14"
+ABEE1020/L1/01,Integrated Design in Architecture,Lecture,45,Wednesday,10:00,11:00,1:00,PMB-302*,PMB Architecture Teaching Room 302 - Level 3 - Priority by Faculty Office of Science and Engineering (Architecture),54,"Yimeng Wang,Kliment Radoev,Aurel Fabri","2, 4-13"
+ABEE2033/L1/01,Architectural Engineering Design 3,Lecture,20,Wednesday,10:00,12:00,2:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Wu Deng,Ayotunde Dawodu","2, 4-14"
+ABEE2029/P1/03,Fluid Mechanics and the Built Environment 1,Practical,6,Wednesday,11:00,12:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,6
+ABEE2029/P1/12,Fluid Mechanics and the Built Environment 1,Practical,6,Wednesday,11:00,12:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,9
+ABEE2025/C1/01,Integrated Design in Architecture 2A,Computing,55,Wednesday,11:00,13:00,2:00,PB-226(COMP)+,Portland Building-Computer Lab -226 Level 2,72,"Hiroyuki Shinohara,A Arch New Staff 1","2, 4-7, 9, 11-13"
+ABEE1022/L1/01,Architectural Humanities 1: History of Architectural meaning from Antiquity to the Present Day,Lecture,45,Wednesday,11:00,13:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,Jing Xie,"2, 4-13"
+ABEE3024/L1/01,Architectural Humanities III: Critical Theory and Interpretation,Lecture,36,Wednesday,11:00,13:00,2:00,DB-B01+,The Lord Dearing Building- Teaching Room B01,40,Yat Ming Loo,"2, 4-13"
+ABEE2025/L1/01,Integrated Design in Architecture 2A,Lecture,55,Wednesday,11:00,13:00,2:00,CSET- basement Studio*,CSET- basement Studio - for Arch,120,"Hiroyuki Shinohara,A Arch New Staff 1","8, 10"
+,,,,,,,,,,,,
+Thursday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+ABEE2029/P1/06,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,9:00,10:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,7
+ABEE2029/P1/07,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,9:00,10:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,8
+ABEE2029/P1/10,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,9:00,10:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,9
+ABEE3029/C1/01,Building Information Modelling & Management,Computing,45,Thursday,9:00,11:00,2:00,PMB-306(COMP)+,PMB Computer Teaching Room 306 - Level 3 - Priority by Faculty Office of Science and Engineering,72,Tianlug Yang,"2, 4-12"
+ABEE2024/L1/01,Environmental Science for Architects 2,Lecture,55,Thursday,9:00,11:00,2:00,TB-405+,Teaching Building Seminar Room 405 - Level 4,64,Wu Deng,"2, 4-13"
+ABEE2029/S1/01,Fluid Mechanics and the Built Environment 1,Seminar,23,Thursday,9:00,10:00,1:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Isaac Lun,Liang Xia","2, 4-14"
+ABEE1023/W2/01,Architectural Design Studio 1A,Workshop,45,Thursday,9:00,17:00,8:00,PMB-302*,PMB Architecture Teaching Room 302 - Level 3 - Priority by Faculty Office of Science and Engineering (Architecture),54,"Yimeng Wang,Aurel Fabri,Jun Lu,A Arch New Staff 2,Kliment Radoev","2, 4-14"
+ABEE2029/S1/02,Fluid Mechanics and the Built Environment 1,Seminar,23,Thursday,10:00,11:00,1:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Isaac Lun,Liang Xia","2, 4-14"
+ABEE2016/P1/03,Acoustics and Lighting,Lecture,4,Thursday,10:00,11:00,1:00,,,,"Tongyu Zhou,Siegfried Yeboah,",5
+ABEE2029/P1/01,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,10:00,11:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,6
+ABEE2029/P1/04,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,10:00,11:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,7
+ABEE2029/P1/09,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,10:00,11:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,8
+ABEE2029/P1/11,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,10:00,11:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,9
+ABEE2029/S1/03,Fluid Mechanics and the Built Environment 1,Seminar,23,Thursday,11:00,12:00,1:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Isaac Lun,Liang Xia","2, 4-14"
+ABEE2029/P1/02,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,11:00,12:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,6
+ABEE2029/P1/05,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,11:00,12:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,7
+ABEE2029/P1/08,Fluid Mechanics and the Built Environment 1,Practical,6,Thursday,11:00,12:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,,8
+ABEE3029/P1/01,Building Information Modelling & Management,Practical,45,Thursday,13:00,15:00,2:00,PMB-115 (teaching)*,PMB - Lab Room 115 - Level 1 - Engineering Application workshop,56,Georgios Kapogiannis,7月8日
+ABEE3048/P1/01,Heat transfer and cooling technology,Practical,10,Thursday,14:00,15:00,1:00,PMB-122*,PMB Lab Room 122 - Level 1 - Chemical Engineering lab,20,"Tongyu Zhou,Siegfried Yeboah,",4
+ABEE3048/P1/02,Heat transfer and cooling technology,Practical,10,Thursday,14:00,15:00,1:00,PMB-122*,PMB Lab Room 122 - Level 1 - Chemical Engineering lab,20,"Tongyu Zhou,Siegfried Yeboah,",5
+ABEE3048/P1/03,Heat transfer and cooling technology,Practical,10,Thursday,14:00,15:00,1:00,PMB-122*,PMB Lab Room 122 - Level 1 - Chemical Engineering lab,20,"Tongyu Zhou,Siegfried Yeboah,",6
+ABEE2033/L2/01,Architectural Engineering Design 3,Lecture,20,Thursday,14:00,16:00,2:00,DB-B04+,The Lord Dearing Building - Teaching Room B04,25,"Wu Deng,Ayotunde Dawodu","2, 4-14"
+ABEE3029/C2/01,Building Information Modelling & Management,Computing,45,Thursday,16:00,18:00,2:00,PMB-306(COMP)+,PMB Computer Teaching Room 306 - Level 3 - Priority by Faculty Office of Science and Engineering,72,Tianlug Yang,"2, 4-12"
+,,,,,,,,,,,,
+Friday,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activity,Module,Name of Type,Size,Day,Start,End,Duration,Room,Room Description,Room Size,Staff,Weeks
+ABEE1024/P1/01,Thermofluids 2,Practical,5,Friday,9:00,10:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,Liang Xia,7
+ABEE1024/P1/03,Thermofluids 2,Practical,5,Friday,9:00,10:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,Liang Xia,8
+ABEE1025/C1/02,Architectural Engineering Design 1,Computing,34,Friday,9:00,11:00,2:00,PB-119(COMP)+,Portland Building-Computer Lab 119 - Level 1,35,Georgios Kapogiannis,"2, 4-14"
+ABEE1025/C2/02,Architectural Engineering Design 1,Computing,23,Friday,9:00,11:00,2:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,"Yimeng Wang,Aurel Fabri","2, 4-14"
+ABEE2022&3025/W2/01,Architectural Design Studio 2A/3,Workshop,55,Friday,9:00,17:00,8:00,CSET- basement Studio*,CSET- basement Studio - for Arch,120,"Yat Ming Loo,Jing Xie,Hiroyuki Shinohara,A Arch New Staff 2,A Arch New Staff 1,Eugenio Mangi","2, 4-14"
+ABEE2022&3025/W2/01 (location/staff refer to ABEE2022),Architectural Design Studio 2A/3,Workshop,55,Friday,9:00,17:00,8:00,,,,,"2, 4-14"
+ABEE2016/P1/02,Acoustics and Lighting,Lecture,4,Friday,10:00,11:00,1:00,,,,"Tongyu Zhou,Siegfried Yeboah,",4
+ABEE2016/P1/04,Acoustics and Lighting,Lecture,4,Friday,10:00,11:00,1:00,,,,"Tongyu Zhou,Siegfried Yeboah,",5
+ABEE1024/P1/02,Thermofluids 2,Practical,5,Friday,10:00,11:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,Liang Xia,7
+ABEE1024/P1/04,Thermofluids 2,Practical,5,Friday,10:00,11:00,1:00,PMB-212*,PMB Lab Room 212 - Level 2 - Thermofluid Lab,24,Liang Xia,8
+ABEE3030/P1/01,Computational Fluid Dynamics for the Built Environment,Practical,36,Friday,11:00,12:00,1:00,PMB-306(COMP)+,PMB Computer Teaching Room 306 - Level 3 - Priority by Faculty Office of Science and Engineering,72,Isaac Lun,"2, 4-14"
+ABEE2016/P1/01,Acoustics and Lighting,Lecture,4,Friday,11:00,12:00,1:00,,,,"Tongyu Zhou,Siegfried Yeboah,",4
+ABEE2016/P1/05,Acoustics and Lighting,Lecture,4,Friday,11:00,12:00,1:00,,,,"Tongyu Zhou,Siegfried Yeboah,",5
+ABEE1025/C1/01,Architectural Engineering Design 1,Computing,34,Friday,12:00,14:00,2:00,PB-119(COMP)+,Portland Building-Computer Lab 119 - Level 1,35,Ed Cooper,"2, 4-14"
+ABEE1025/C2/03,Architectural Engineering Design 1,Computing,23,Friday,12:00,14:00,2:00,PMB-309(COMP)+,PMB Computer Teaching Room 309 - Level 3 - Priority by Faculty Office of Science and Engineering,32,"Yimeng Wang,Aurel Fabri","2, 4-14"
+ABEE1032/L1/01,People Buildings Landscape,Workshop,45,Friday,14:00,16:00,2:00,DB-A04+,DB-A04 - Teaching Room A04,60,Wu Deng,"2, 4-13"
+ABEE3048/L1/01,Heat transfer and cooling technology,Lecture,30,Friday,14:00,16:00,2:00,DB-C01+,The Lord Dearing Building - Teaching Room C01,30,"Tongyu Zhou,Siegfried Yeboah",4月14日
+ABEE1025/C2/01,Architectural Engineering Design 1,Computing,23,Friday,16:00,18:00,2:00,PB-119(COMP)+,Portland Building-Computer Lab 119 - Level 1,35,"Yimeng Wang,Aurel Fabri","2, 4-14"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Weeks 2 & 4-14 = Autumn semester; Weeks 23-34 = Spring semester,,,,,,,,,,,,
