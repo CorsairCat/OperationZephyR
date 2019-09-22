@@ -124,10 +124,18 @@
                 array_push($infoArray,$tmp);
             }
         }
+        $dataBase = "zephyr";
+        $tableName = "course";
         $weekStr = $infoArray[4];
         array_pop ($infoArray);
         $weekArray = getWeekList($weekStr);
         array_push($infoArray,$weekArray);
+        $result = searchData($dataBase,$tableName,1,array(),array("courseid"),array($infoArray[0]));
+        if ($result[0][0] != 0){
+            $infoArray[0] = $result[1][2];
+            array_push($infoArray,$result[1][3]);
+        }
+        //echo print_r($result);
         return $infoArray;
     }
 

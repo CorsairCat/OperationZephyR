@@ -14,14 +14,14 @@
             for ($i=0;$i<count($array[$d]);$i++){
                 $eventNum = count($dayArray[$i][4]);
                 for ($j=0;$j<$eventNum;$j++){
-                    $timeStart = getCourseDateTime($dayArray[$i][4][$j],$d,$dayArray[$i][5]);
-                    $timeEnd = getCourseDateTime($dayArray[$i][4][$j],$d,$dayArray[$i][6]);
+                    $timeStart = getCourseDateTime($dayArray[$i][4][$j],$d,$dayArray[$i][6]);
+                    $timeEnd = getCourseDateTime($dayArray[$i][4][$j],$d,$dayArray[$i][7]);
                     $vEvent = new \Eluceo\iCal\Component\Event();
                     $vEvent->setDtStart(new \DateTime($timeStart));
                     $vEvent->setDtEnd(new \DateTime($timeEnd));
                     $vEvent->setSummary($dayArray[$i][0]);
-                    $vEvent->setDescription("teacher: ".$dayArray[$i][3]);
-                    $vEvent->setDescriptionHTML('<b> teacher'.$dayArray[$i][3].'</b>');
+                    $vEvent->setDescription("courseType: ".$dayArray[$i][5]."; teacher: ".$dayArray[$i][3]);
+                    $vEvent->setDescriptionHTML('<b>'."courseType: ".$dayArray[$i][5]."; teacher".$dayArray[$i][3].'</b>');
                     // add some location information
                     $vEvent->setLocation($dayArray[$i][2]);
                     $vCalendar->addComponent($vEvent);

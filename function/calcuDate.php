@@ -13,8 +13,8 @@
         }else{
             $hourString = " ".$hour;
         }
-  //引入日期操作变量
-        $actuallTime = "2019-09-16".$hourString.":".$min.":00"; //place your start monday here
+        include_once "weekRangeConfig.php"; //引入日期操作变量
+        $actuallTime = "2019-09-16".$hourString.":".$min.":00";
         $thisCourseTime = strtotime("$actuallTime +$week week $day day");
         return date('Y-m-d H:i:s', $thisCourseTime);
     }
