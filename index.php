@@ -16,14 +16,14 @@
             $resultArray = getUserFileData($userId);
             $vCalendar = geneCal($resultArray[1]);
             header('Content-Type: text/calendar; charset=utf-8');
-            header('Content-Disposition: attachment; filename="cal.ics"');
+            header('Content-Disposition: attachment; filename="Calendar'.$userId.'.ics"');
             echo $vCalendar->render();
         }
     }else{
         $resultArray = getUserFileData($userId);
         $vCalendar = geneCal($resultArray[1]);
         header('Content-Type: text/calendar; charset=utf-8');
-        header('Content-Disposition: attachment; filename="cal.ics"');
+        header('Content-Disposition: attachment; filename="Calendar'.$userId.'.ics"');
         echo $vCalendar->render();
     }
 
