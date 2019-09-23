@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+    <div>
+        your student id: <input type="text" name="studentid" id="userid"/>
+        <div class="section">
+                <button id="genelink" onclick="test();">Generate link</button>
+            </div>
+    </div>
+    <div id="linkarea">
+
+    </div>
+</body>
+<script type="text/javascript">
+        function test(){
+            console.log("!!!!");
+            var studentId = document.getElementById("userid").value;
+            var patt = /^[0-9]{8}$/;
+            if (patt.test(studentId)){
+                var link = "http://www.corsaircat.com/operationZ/index.php?userid=" + studentId;
+                var finalink = '<a href="' + link + '">download link</a>';
+                var linkArea = document.getElementById("linkarea");
+                linkArea.innerHTML = finalink;
+            }else{
+                alert("it is not a student id, please check");
+            }
+        }
+</script>
+</html>
