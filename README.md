@@ -1,6 +1,6 @@
 # OperationZephyR
 an automatic generator of calendar
-
+example is here: http://www.corsaircat.com/operationZ/index.php ;
 
 ## This should be include to make this project run
 * check the generator of ical from below link
