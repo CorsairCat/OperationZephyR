@@ -19,7 +19,10 @@
 + courseid varchar(200) NOT NULL
 + coursename varchar(200) NOT NULL
 + coursetype varchar(200) NOT NULL
-* STEP3: put the whole file into your nginx folder;
-* STEP4: use the composer to install the ical moudle;
-* STEP5: input the csv of course info to the stable && run the expendCsv.php through the browser && delete the expendCsv for safity;
-* STEP6: enjoy it;
+* STEP3: some thing you need to change before upload: 
+* |- "function/calcuDate.php" (the start date (Monday) inside it: in the download file it would be 2019-09-16)
+* |- "config/dbconfig/maindb.php" (change the variables of user, pass and host to access the database on your own server)
+* STEP4: put the whole file into your nginx folder;
+* STEP5: use the composer to install the ical moudle;
+* STEP6: input the csv of course info to the stable && run the expendCsv.php through the browser && delete the expendCsv for safity;
+* STEP7: enjoy it;
