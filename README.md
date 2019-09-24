@@ -9,6 +9,7 @@
 ## 2019-09-24 UPDATE
 + we improved the function for some special condition;
 + one more step is needed for generate location for some courses;
++ add the function for the timetable changed situation; 
 
 ## Installation Guide
 * what you need: apache2 or nginx; php-fpm 7; php composer; a mysql/mariadb;
