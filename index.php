@@ -10,7 +10,7 @@
 
     if (isset($_GET['userid'])){
         $userId = $_GET['userid'];
-        if (!preg_match('|^\d{8}$|',$abc)) {
+        if (preg_match('/\d{8}$/',$userId)) {
             $isAlreadyExist = searchData($dataBase,$tableName,1,array(),array("username"),array($userId));
             if ($isAlreadyExist[0][0] == 0){
                 addData($dataBase,$tableName,1,array("username"),array($userId));
@@ -40,7 +40,7 @@
                 }
             }
         }else{
-            echo "PLEASE CHECK IF YOUR STUDENT ID IS CORRECT";
+            include_once "html/wrong.html";
         }
     }else{
         include_once "html/index.html";
