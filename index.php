@@ -16,7 +16,7 @@
             if (isset($_GET['ignoreLocal'])){
                 $key = $_GET['ignoreLocal'];
                 $status = writeNewUserArrayToFile($userId);
-                if ($status == "success"){
+                if ($status[0] == "success"){
                     $resultArray = getUserFileData($userId);
                     $vCalendar = geneCal($resultArray[1]);
                     header('Content-Type: text/calendar; charset=utf-8');
@@ -27,7 +27,7 @@
                 if ($isAlreadyExist[0][0] == 0){
                     addData($dataBase,$tableName,1,array("username"),array($userId));
                     $status = writeNewUserArrayToFile($userId);
-                    if ($status == "success"){
+                    if ($status[0] == "success"){
                         $resultArray = getUserFileData($userId);
                         $vCalendar = geneCal($resultArray[1]);
                         header('Content-Type: text/calendar; charset=utf-8');
