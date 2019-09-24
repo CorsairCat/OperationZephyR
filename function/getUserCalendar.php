@@ -125,11 +125,33 @@
             }
         }
         $dataBase = "zephyr";
-        $tableName = "course";
         $weekStr = $infoArray[4];
         array_pop ($infoArray);
         $weekArray = getWeekList($weekStr);
         array_push($infoArray,$weekArray);
+        if ($infoArray[2] == ""){
+            $tableName1 = "speciallocation";
+            $result = searchData($dataBase,$tableName1,1,array(),array("courseName"),array($infoArray[0]));
+            if ($result[0][0] != 0){
+                $signalX = stripos($result[1][2],"SPECIAL");
+                if ($signalX == 0){
+                    $sameCourseName = substr($result[1][2],7);
+                    $result2 = searchData($dataBase,$tableName1,1,array(),array("courseName"),array($sameCourseName));
+                    //echo $sameCourseName."<br>";
+                    if ($result2[0][0] != 0){
+                        $infoArray[2] = $result2[1][2];
+                    }else{
+                        $infoArray[2] = $sameCourseName;
+                    }
+                }else{
+                    //echo "no special <br>";
+                }
+            }else{
+                //echo "no record <br>";
+            }
+        }else{
+        }
+        $tableName = "course";
         $result = searchData($dataBase,$tableName,1,array(),array("courseid"),array($infoArray[0]));
         if ($result[0][0] != 0){
             $infoArray[0] = $result[1][2];
