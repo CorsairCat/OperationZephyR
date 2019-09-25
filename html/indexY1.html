@@ -40,6 +40,11 @@
     <div id="donationPic" style="display: none">
         <img src="img/donation1.jpg"/>
     </div>
+    <div id="showOut" style="display:none;position:absolute;top:0;right:0;left:0;height:1200px;background-color: azure">
+        您正在通过微信浏览器打开
+        <br>
+        请在系统浏览器中打开
+    </div>
 </body>
 <script type="text/javascript">
         function test(){
@@ -63,6 +68,34 @@
         function showPic(){
             var obj = document.getElementById("donationPic");
             obj.style.display = "block";
+        }
+
+        function is_weixin(){
+            var ua = navigator.userAgent.toLowerCase();
+            if(ua.match(/MicroMessenger/i)=="micromessenger") {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+        function isQQ(){
+            var ua = window.navigator.userAgent.toLowerCase();
+            if(ua.match(/QQ/i)=='qq'){
+                return true;
+            }else{
+                return false;
+            }
+        }
+
+        window.onload = function()
+        {
+            if (is_weixin()){
+                document.getElementById("showOut").style.display = "block";
+            }
+            if (isQQ()){
+                document.getElementById("showOut").style.display = "block";
+            }
         }
 </script>
 </html>
