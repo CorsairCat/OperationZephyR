@@ -6,6 +6,9 @@
 * check the generator of ical from below link
 * https://github.com/markuspoerschke/iCal
 
+## 2019-09-25 UPDATE
++ now it support the y1 timetable generation
+
 ## 2019-09-24 UPDATE
 + we improved the function for some special condition;
 + one more step is needed for generate location for some courses;
