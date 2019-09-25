@@ -11,6 +11,17 @@
         $finalResult = file_get_contents($searchUrl);
         return $finalResult;
     }
+    function getOriginY1Data($teamId){
+        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/reporting/Individual;Student+Sets;name;Year%201-".$teamId."%20(Autumn)?template=Student+Set+Individual&weeks=1-52&days=1-7&periods=1-32";
+        header( "Content-type:text/html;Charset=utf-8" );  
+        $curlObj = curl_init();
+        curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );
+        curl_setopt ($curlObj,CURLOPT_URL,$searchUrl);
+        curl_setopt ($curlObj, CURLOPT_RETURNTRANSFER, 1);
+        $content = curl_exec($curlObj);
+        $finalResult = file_get_contents($searchUrl);
+        return $finalResult;
+    }
 //删除获取的课表中的无效部分
     function analyseData($dataString){
         $startId = strpos($dataString,"<body>") + 6;
@@ -228,6 +239,18 @@
 
     function getClassInfoToArray($userId){
         $str = getOriginData($userId);
+        $dayStr = getEveryDay($str);
+        $headerInfo = analyseHeader($str);
+        $courseInfo = array();
+        for ($k=0;$k<7;$k++){
+            $dayInfo = analyseDayCourse($dayStr[$k]);
+            array_push($courseInfo,$dayInfo);
+        }
+        return array("success",$headerInfo,$courseInfo);
+    }
+
+    function getY1ClassInfoToArray($teamId){
+        $str = getOriginY1Data($teamId);
         $dayStr = getEveryDay($str);
         $headerInfo = analyseHeader($str);
         $courseInfo = array();
