@@ -6,6 +6,9 @@
 * check the generator of ical from below link
 * https://github.com/markuspoerschke/iCal
 
+## 2019-09-26 UPDATE
++ from the latest user record, add more detect to prevent user's wrong usage, such as use the y234system to search y1 data
+
 ## 2019-09-25 UPDATE
 + now it support the y1 timetable generation
 
