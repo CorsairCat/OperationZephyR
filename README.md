@@ -20,7 +20,7 @@
 ## Installation Guide
 * what you need: apache2 or nginx; php-fpm 7; php composer; a mysql/mariadb;
 * STEP1: create a database called zephyr;
-* STEP2: create 2 table in database zephyr:
+* STEP2: create 3 table in database zephyr:
 * table1 : account
 + id int(11) NOT NULL PRIMARY KEY auto_increment
 + username varchar(100) NOT NULL
