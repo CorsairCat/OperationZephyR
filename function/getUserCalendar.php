@@ -1,7 +1,7 @@
 <?php
 //初始函数，获取xtml数据
     function getOriginData($userId){
-        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/individual.htm;Student+Sets;id;".$userId."?template=Student+Set+Individual&weeks=1-18&days=&periods=&Width=0&Height=0&nsukey=arxaDi%2F5%2B1sCNvPOwHUckNKHjKJWh1qWVVhCHluhztAVUMZ5%2FNDkN1rIQETXdTuU796GaPBPto7q2mit6SVyNuwUOBTgvWuGlXnm%2FzJwHMwjwvc9m3RkbL%2BNVP0605I1Y32BX5E0sN3jLTkHBks1iQ%3D%3D";
+        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/individual.htm;Student+Sets;id;".$userId."?template=Student+Set+Individual&weeks=23-40&days=&periods=&Width=0&Height=0&nsukey=arxaDi%2F5%2B1sCNvPOwHUckNKHjKJWh1qWVVhCHluhztAVUMZ5%2FNDkN1rIQETXdTuU796GaPBPto7q2mit6SVyNuwUOBTgvWuGlXnm%2FzJwHMwjwvc9m3RkbL%2BNVP0605I1Y32BX5E0sN3jLTkHBks1iQ%3D%3D";
         header( "Content-type:text/html;Charset=utf-8" );  
         $curlObj = curl_init();
         curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );
@@ -12,7 +12,7 @@
         return $finalResult;
     }
     function getOriginY1Data($teamId){
-        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/reporting/Individual;Student+Sets;name;Year%201-".$teamId."%20(Autumn)?template=Student+Set+Individual&weeks=1-52&days=1-7&periods=1-32";
+        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/reporting/Individual;Student+Sets;name;Year%201-".$teamId."%20(Spring)?template=Student+Set+Individual&weeks=23-52&days=1-7&periods=";
         header( "Content-type:text/html;Charset=utf-8" );  
         $curlObj = curl_init();
         curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );
@@ -135,7 +135,7 @@
                 array_push($infoArray,$tmp);
             }
         }
-        $dataBase = "zephyr";
+        $dataBase = "zephyr2020spring";
         $weekStr = $infoArray[4];
         array_pop ($infoArray);
         $weekArray = getWeekList($weekStr);
@@ -144,8 +144,8 @@
             $tableName1 = "speciallocation";
             $result = searchData($dataBase,$tableName1,1,array(),array("courseName"),array($infoArray[0]));
             if ($result[0][0] != 0){
-                $signalX = stripos($result[1][2],"SPECIAL");
-                if ($signalX == 0){
+                $signalX = stripos($result[1][2],"PECIAL");
+                if ($signalX != FALSE){
                     $sameCourseName = substr($result[1][2],7);
                     $result2 = searchData($dataBase,$tableName1,1,array(),array("courseName"),array($sameCourseName));
                     //echo $sameCourseName."<br>";
@@ -156,6 +156,7 @@
                     }
                 }else{
                     //echo "no special <br>";
+                    $infoArray[2] = $result[1][2];
                 }
             }else{
                 //echo "no record <br>";
@@ -163,10 +164,13 @@
         }else{
         }
         $tableName = "course";
+        $infoArray[0] = preg_replace ("/\s(?=\s)/","", $infoArray[0]);
         $result = searchData($dataBase,$tableName,1,array(),array("courseid"),array($infoArray[0]));
         if ($result[0][0] != 0){
             $infoArray[0] = $result[1][2];
             array_push($infoArray,$result[1][3]);
+        }else{
+            array_push($infoArray,"unknown");
         }
         //echo print_r($result);
         return $infoArray;
