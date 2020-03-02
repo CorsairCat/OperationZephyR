@@ -6,7 +6,7 @@
     include 'function/dbfunction.php';
 
 
-    $dataBase = "zephyr";
+    $dataBase = "zephyr2020spring";
     $tableName = "account";
 
     if (isset($_GET['userid'])){
@@ -18,7 +18,12 @@
                 $status = writeNewY1UserArrayToFile($userId);
                 if ($status[0] == "success"){
                     $resultArray = getUserFileData($userId);
-                    $vCalendar = geneCal($resultArray[1]);
+                    if (isset($_GET['notifytime'])){
+                        $notifyTime = $_GET['notifytime'];
+                        $vCalendar = geneCalWithAlarm($resultArray[1],$notifyTime);
+                    }else{
+                        $vCalendar = geneCal($resultArray[1]);
+                    }
                     header('Content-Type: text/calendar; charset=utf-8');
                     header('Content-Disposition: attachment; filename="Calendar'.$userId.'.ics"');
                     echo $vCalendar->render();
@@ -29,7 +34,12 @@
                     $status = writeNewY1UserArrayToFile($userId);
                     if ($status[0] == "success"){
                         $resultArray = getUserFileData($userId);
-                        $vCalendar = geneCal($resultArray[1]);
+                        if (isset($_GET['notifytime'])){
+                            $notifyTime = $_GET['notifytime'];
+                            $vCalendar = geneCalWithAlarm($resultArray[1],$notifyTime);
+                        }else{
+                            $vCalendar = geneCal($resultArray[1]);
+                        }
                         header('Content-Type: text/calendar; charset=utf-8');
                         header('Content-Disposition: attachment; filename="Calendar'.$userId.'.ics"');
                         echo $vCalendar->render();
@@ -37,7 +47,12 @@
                 }else{
                     if ($isAlreadyExist[1][2] != ""){
                         $resultArray = getUserFileData($userId);
-                        $vCalendar = geneCal($resultArray[1]);
+                        if (isset($_GET['notifytime'])){
+                            $notifyTime = $_GET['notifytime'];
+                            $vCalendar = geneCalWithAlarm($resultArray[1],$notifyTime);
+                        }else{
+                            $vCalendar = geneCal($resultArray[1]);
+                        }
                         header('Content-Type: text/calendar; charset=utf-8');
                         header('Content-Disposition: attachment; filename="Calendar'.$userId.'.ics"');
                         echo $vCalendar->render();
@@ -45,7 +60,12 @@
                         $userInfo = analyseHeader(getOriginData($userId));
                         updateData($dataBase,$tableName,"userinfo",$userInfo,1,array(),array("userid"),$userId);
                         $resultArray = getUserFileData($userId);
-                        $vCalendar = geneCal($resultArray[1]);
+                        if (isset($_GET['notifytime'])){
+                            $notifyTime = $_GET['notifytime'];
+                            $vCalendar = geneCalWithAlarm($resultArray[1],$notifyTime);
+                        }else{
+                            $vCalendar = geneCal($resultArray[1]);
+                        }
                         header('Content-Type: text/calendar; charset=utf-8');
                         header('Content-Disposition: attachment; filename="Calendar'.$userId.'.ics"');
                         echo $vCalendar->render();
