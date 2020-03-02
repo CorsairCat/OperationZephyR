@@ -11,7 +11,7 @@
     }
     echo print_r($fileArray);
     $couserArray = array();
-    $dataBase = "zephyr";
+    $dataBase = "zephyr2020spring";
     $tableName = "speciallocation";
     for ($i=0;$i<count($fileArray);$i++){
         $file = fopen("stable/".$fileArray[$i],"r");
