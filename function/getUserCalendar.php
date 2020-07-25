@@ -1,7 +1,7 @@
 <?php
 //初始函数，获取xtml数据
-    function getOriginData($userId){
-        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/individual.htm;Student+Sets;id;".$userId."?template=Student+Set+Individual&weeks=23-40&days=&periods=&Width=0&Height=0&nsukey=arxaDi%2F5%2B1sCNvPOwHUckNKHjKJWh1qWVVhCHluhztAVUMZ5%2FNDkN1rIQETXdTuU796GaPBPto7q2mit6SVyNuwUOBTgvWuGlXnm%2FzJwHMwjwvc9m3RkbL%2BNVP0605I1Y32BX5E0sN3jLTkHBks1iQ%3D%3D";
+    function getOriginData($userId,$searchUrl){
+        //$searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/individual.htm;Student+Sets;id;".$userId."?template=Student+Set+Individual&weeks=23-40&days=&periods=&Width=0&Height=0&nsukey=arxaDi%2F5%2B1sCNvPOwHUckNKHjKJWh1qWVVhCHluhztAVUMZ5%2FNDkN1rIQETXdTuU796GaPBPto7q2mit6SVyNuwUOBTgvWuGlXnm%2FzJwHMwjwvc9m3RkbL%2BNVP0605I1Y32BX5E0sN3jLTkHBks1iQ%3D%3D";
         header( "Content-type:text/html;Charset=utf-8" );  
         $curlObj = curl_init();
         curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );
@@ -11,8 +11,8 @@
         $finalResult = file_get_contents($searchUrl);
         return $finalResult;
     }
-    function getOriginY1Data($teamId){
-        $searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/reporting/Individual;Student+Sets;name;Year%201-".$teamId."%20(Spring)?template=Student+Set+Individual&weeks=23-52&days=1-7&periods=";
+    function getOriginY1Data($teamId,$searchUrl){
+        //$searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/reporting/Individual;Student+Sets;name;Year%201-".$teamId."%20(Spring)?template=Student+Set+Individual&weeks=23-52&days=1-7&periods=";
         header( "Content-type:text/html;Charset=utf-8" );  
         $curlObj = curl_init();
         curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );
@@ -135,7 +135,8 @@
                 array_push($infoArray,$tmp);
             }
         }
-        $dataBase = "zephyr2020spring";
+        include 'config/setup_config.php'; //引入全局配置文件
+        //$dataBase = "zephyr2020spring";
         $weekStr = $infoArray[4];
         array_pop ($infoArray);
         $weekArray = getWeekList($weekStr);
@@ -241,8 +242,8 @@
         return $courseInfoArray;
     }
 
-    function getClassInfoToArray($userId){
-        $str = getOriginData($userId);
+    function getClassInfoToArray($userId,$searchUrl){
+        $str = getOriginData($userId,$searchUrl);
         $dayStr = getEveryDay($str);
         $headerInfo = analyseHeader($str);
         $courseInfo = array();
@@ -253,8 +254,8 @@
         return array("success",$headerInfo,$courseInfo);
     }
 
-    function getY1ClassInfoToArray($teamId){
-        $str = getOriginY1Data($teamId);
+    function getY1ClassInfoToArray($teamId,$searchUrl){
+        $str = getOriginY1Data($teamId,$searchUrl);
         $dayStr = getEveryDay($str);
         $headerInfo = analyseHeader($str);
         $courseInfo = array();

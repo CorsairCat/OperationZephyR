@@ -5,8 +5,8 @@
     include 'function/fileControl.php';
     include 'function/dbfunction.php';
 
-
-    $dataBase = "zephyr2020spring";
+    include 'config/setup_config.php';
+    //$dataBase = "zephyr2020spring";
     $tableName = "account";
 
     if (isset($_GET['userid'])){
@@ -15,7 +15,7 @@
             $isAlreadyExist = searchData($dataBase,$tableName,1,array(),array("username"),array($userId));
             if (isset($_GET['ignoreLocal'])){
                 $key = $_GET['ignoreLocal'];
-                $status = writeNewY1UserArrayToFile($userId);
+                $status = writeNewY1UserArrayToFile($userId,$searchUrl_Y1);
                 if ($status[0] == "success"){
                     $resultArray = getUserFileData($userId);
                     if (isset($_GET['notifytime'])){
