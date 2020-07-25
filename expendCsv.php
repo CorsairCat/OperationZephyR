@@ -11,7 +11,8 @@
     }
     echo print_r($fileArray);
     $couserArray = array();
-    $dataBase = "zephyr2020spring";
+    include 'config/setup_config.php';
+    //$dataBase = "zephyr2020spring";
     $tableName = "course";
     for ($i=0;$i<count($fileArray);$i++){
         $file = fopen("stable/".$fileArray[$i],"r");

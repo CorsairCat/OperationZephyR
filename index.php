@@ -5,8 +5,8 @@
     include 'function/fileControl.php';
     include 'function/dbfunction.php';
 
-
-    $dataBase = "zephyr2020spring";
+    include 'config/setup_config.php';
+    //$dataBase = "zephyr2020spring";
     $tableName = "account";
 
     if (isset($_GET['userid'])){

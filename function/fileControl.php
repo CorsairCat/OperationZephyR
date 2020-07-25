@@ -1,8 +1,8 @@
 <?php
-    function writeNewUserArrayToFile($userId){
+    function writeNewUserArrayToFile($userId,$searchUrl){
         $filePath = 'storage/'.$userId.'.txt';
         $fileHandle = fopen($filePath,"w") or die("Unable to open file!");
-        $userData = getClassInfoToArray($userId);
+        $userData = getClassInfoToArray($userId,$searchUrl);
         if ($userData[0] == "success"){
             $fileData = array($userData[1],$userData[2]);
             $serialized_data = serialize($fileData);
@@ -18,10 +18,10 @@
         }
     }
 
-    function writeNewY1UserArrayToFile($userId){
+    function writeNewY1UserArrayToFile($userId,$searchUrl){
         $filePath = 'storage/'.$userId.'.txt';
         $fileHandle = fopen($filePath,"w") or die("Unable to open file!");
-        $userData = getY1ClassInfoToArray($userId);
+        $userData = getY1ClassInfoToArray($userId,$searchUrl);
         if ($userData[0] == "success"){
             $fileData = array($userData[1],$userData[2]);
             $serialized_data = serialize($fileData);
