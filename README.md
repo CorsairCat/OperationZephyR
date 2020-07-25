@@ -6,6 +6,10 @@
 * check the generator of ical from below link
 * https://github.com/markuspoerschke/iCal
 
+## 2020-07-25 UPDATE
++ adding a config file for easy setup;
++ **Notice:** Not tested
+
 ## 2019-11-25 UPDATE
 + adding support for wechat automatical reply
 
