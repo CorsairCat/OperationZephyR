@@ -31,7 +31,7 @@
             }else{
                 if ($isAlreadyExist[0][0] == 0){
                     addData($dataBase,$tableName,1,array("username"),array($userId));
-                    $status = writeNewY1UserArrayToFile($userId);
+                    $status = writeNewY1UserArrayToFile($userId,$searchUrl_Y1);
                     if ($status[0] == "success"){
                         $resultArray = getUserFileData($userId);
                         if (isset($_GET['notifytime'])){

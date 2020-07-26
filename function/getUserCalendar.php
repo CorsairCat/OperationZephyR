@@ -1,7 +1,8 @@
 <?php
 //初始函数，获取xtml数据
-    function getOriginData($userId,$searchUrl){
+    function getOriginData($userId,$searchUrl_Array){
         //$searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/individual.htm;Student+Sets;id;".$userId."?template=Student+Set+Individual&weeks=23-40&days=&periods=&Width=0&Height=0&nsukey=arxaDi%2F5%2B1sCNvPOwHUckNKHjKJWh1qWVVhCHluhztAVUMZ5%2FNDkN1rIQETXdTuU796GaPBPto7q2mit6SVyNuwUOBTgvWuGlXnm%2FzJwHMwjwvc9m3RkbL%2BNVP0605I1Y32BX5E0sN3jLTkHBks1iQ%3D%3D";
+        $searchUrl = $searchUrl_Array[0].$userId.$searchUrl_Array[1];
         header( "Content-type:text/html;Charset=utf-8" );  
         $curlObj = curl_init();
         curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );
@@ -11,8 +12,9 @@
         $finalResult = file_get_contents($searchUrl);
         return $finalResult;
     }
-    function getOriginY1Data($teamId,$searchUrl){
+    function getOriginY1Data($teamId,$searchUrl_Array){
         //$searchUrl = "http://timetablingunnc.nottingham.ac.uk:8005/reporting/Individual;Student+Sets;name;Year%201-".$teamId."%20(Spring)?template=Student+Set+Individual&weeks=23-52&days=1-7&periods=";
+        $searchUrl = $searchUrl_Array[0].$teamId.$searchUrl_Array[1];
         header( "Content-type:text/html;Charset=utf-8" );  
         $curlObj = curl_init();
         curl_setopt ( $curlObj , CURLOPT_USERAGENT ,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36" );

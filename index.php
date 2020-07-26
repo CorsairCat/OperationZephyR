@@ -18,7 +18,7 @@
                 $isAlreadyExist = searchData($dataBase,$tableName,1,array(),array("username"),array($userId));
                 if (isset($_GET['ignoreLocal'])){
                     $key = $_GET['ignoreLocal'];
-                    $status = writeNewUserArrayToFile($userId);
+                    $status = writeNewUserArrayToFile($userId,$searchUrl_Y2_Up);
                     if ($status[0] == "success"){
                         $resultArray = getUserFileData($userId);
                         if (isset($_GET['notifytime'])){
@@ -34,7 +34,7 @@
                 }else{
                     if ($isAlreadyExist[0][0] == 0){
                         addData($dataBase,$tableName,1,array("username"),array($userId));
-                        $status = writeNewUserArrayToFile($userId);
+                        $status = writeNewUserArrayToFile($userId,$searchUrl_Y2_Up);
                         if ($status[0] == "success"){
                             $resultArray = getUserFileData($userId);
                             if (isset($_GET['notifytime'])){
